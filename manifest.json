@@ -1,0 +1,11 @@
+{
+    "name":"Live IPL Status",
+    "version":"1.0.0",
+    "description":"This is a live IPL status application",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html",
+        "default_title":"Live IPL Status",
+        "default_icon":"logo.png"
+    }
+}
